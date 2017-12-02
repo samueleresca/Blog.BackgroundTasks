@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/samueleresca/Documents/Projects/Blog.BackgroundTasks/Blog.BackgroundTasks.API/Blog.BackgroundTasks.API.csproj",
+    "projectName": "Blog.BackgroundTasks.API",
+    "projectPath": "/Users/samueleresca/Documents/Projects/Blog.BackgroundTasks/Blog.BackgroundTasks.API/Blog.BackgroundTasks.API.csproj",
+    "outputPath": "/Users/samueleresca/Documents/Projects/Blog.BackgroundTasks/Blog.BackgroundTasks.API/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

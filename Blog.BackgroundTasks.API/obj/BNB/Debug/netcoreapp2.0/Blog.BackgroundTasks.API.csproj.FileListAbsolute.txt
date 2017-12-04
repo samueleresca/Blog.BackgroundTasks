@@ -1,0 +1,10 @@
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\obj\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.csproj.CoreCompileInputs.cache
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\obj\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.AssemblyInfoInputs.cache
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\obj\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.AssemblyInfo.cs
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\bin\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.deps.json
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\bin\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.runtimeconfig.json
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\bin\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.runtimeconfig.dev.json
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\bin\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.dll
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\bin\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.pdb
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\obj\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.dll
+C:\Blog.BackgroundTasks\Blog.BackgroundTasks.API\obj\BNB\Debug\netcoreapp2.0\Blog.BackgroundTasks.API.pdb
